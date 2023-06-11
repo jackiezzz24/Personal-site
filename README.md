@@ -10,3 +10,5 @@ Tools and technologies used in this project:
 * Front-End Web Development
 * HTML 5
 * CSS 3
+
+Deployment Link: [Personal website](https://jackiezzz24.github.io/Personal-site/)
